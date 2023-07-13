@@ -1,0 +1,30 @@
+.uppersection{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 50px;
+    gap: 30px;
+}
+
+.h1{
+    font-size: 40px;
+    width: 700px;
+    font-weight: 600;
+}
+
+.p{
+    width: 750px;
+    line-height: 25px;
+    margin-top: 15px;
+    text-align: justify;
+}
+
+.lowerSection{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.para1{
+    width: 1300px;
+    margin-top: 30px;
+    text-align: justify;
+}

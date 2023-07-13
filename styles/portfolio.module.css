@@ -1,0 +1,47 @@
+.h1{
+    margin-top: 40px;
+    margin-left: 200px;
+    font-size: 75px;
+    font-weight: 900;
+    width: 100%;
+}
+
+.h2{
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
+.content{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 30px;
+    gap: 30px;
+    cursor: pointer;
+}
+
+.imgsec{
+    width: 310px;
+    height: 410px;
+    position: relative;
+    border: 5px solid #bbb;
+}
+
+.img{
+    object-fit:cover ;
+}
+
+.h3{
+    position: absolute;
+    bottom: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.h3:hover{
+    color: rgb(41, 185, 41);
+    transition: 0.7s;
+    
+}
+
+

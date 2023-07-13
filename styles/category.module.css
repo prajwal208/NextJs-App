@@ -1,0 +1,24 @@
+.section{
+    display:flex;
+    gap: 80px;
+    margin-top: 40px;
+    margin-right: 180px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.section:nth-child(2n){
+    flex-direction: row-reverse;
+}
+
+.h1{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.p{
+    width: 600px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
